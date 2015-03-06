@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3072028D-2BAF-41DE-BB75-9B4C43C30B25}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaCsharp_Pitbullnet</RootNamespace>
+    <AssemblyName>SistemaCsharp_Pitbullnet</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClaseAbstractaCirculo.cs" />
+    <Compile Include="ClaseAbstractaCuadrado.cs" />
+    <Compile Include="ClaseAbstractaFirma.cs" />
+    <Compile Include="ClaseConEstructuraPersona.cs" />
+    <Compile Include="ClaseconGetSet.cs" />
+    <Compile Include="ClaseConHerencia.cs" />
+    <Compile Include="ClaseConMetodos.cs" />
+    <Compile Include="ClaseConPolimorfismos.cs" />
+    <Compile Include="ClaseCrudLinq.cs" />
+    <Compile Include="ClaseDelegadoPublicador.cs" />
+    <Compile Include="ClaseDelegadoSuscriptor.cs" />
+    <Compile Include="ClasePrincipal.cs" />
+    <Compile Include="ConexionLinq.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ConexionLinq.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="EmpresadePruebaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EmpresadePruebaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Estructuras.cs" />
+    <Compile Include="frmCrudSqlserver2008.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrudSqlserver2008.Designer.cs">
+      <DependentUpon>frmCrudSqlserver2008.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInfo.Designer.cs">
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicio.Designer.cs">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnum.Designer.cs">
+      <DependentUpon>frmEnum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLinq.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLinq.Designer.cs">
+      <DependentUpon>frmLinq.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipalcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipalcs.Designer.cs">
+      <DependentUpon>frmPrincipalcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWebService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWebService.Designer.cs">
+      <DependentUpon>frmWebService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParaBorrar.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service References\WsPrueba\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ConexionLinq.dbml.layout">
+      <DependentUpon>ConexionLinq.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="frmCrudSqlserver2008.resx">
+      <DependentUpon>frmCrudSqlserver2008.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfo.resx">
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicio.resx">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnum.resx">
+      <DependentUpon>frmEnum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLinq.resx">
+      <DependentUpon>frmLinq.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipalcs.resx">
+      <DependentUpon>frmPrincipalcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWebService.resx">
+      <DependentUpon>frmWebService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="ConexionLinq.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>ConexionLinq.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EmpresadePruebaDataSet.xsc">
+      <DependentUpon>EmpresadePruebaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="EmpresadePruebaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>EmpresadePruebaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EmpresadePruebaDataSet.xss">
+      <DependentUpon>EmpresadePruebaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\System.Data.DataSet.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Service References\WsPrueba\Empleado.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visualnet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visualnet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Puerta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Puerta1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Concepto_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BD_48x48%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acerca.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archivo_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archivo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Archivo_48x481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Conceptoc_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CB.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cb_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linq_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\linq.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webService_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crud_64x64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VisualNet2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acerca_48x48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Acercademi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visualnet %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\WsPrueba\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WsPrueba\Empleado.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WsPrueba\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WsPrueba\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\WsPrueba\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
