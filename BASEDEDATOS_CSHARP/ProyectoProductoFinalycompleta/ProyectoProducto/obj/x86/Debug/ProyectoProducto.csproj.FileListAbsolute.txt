@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\bin\Debug\ProyectoProducto.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\bin\Debug\ProyectoProducto.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\bin\Debug\ProyectoProducto.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\obj\x86\Debug\ProyectoProducto.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\obj\x86\Debug\ProyectoProducto.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\obj\x86\Debug\ProyectoProducto.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\obj\x86\Debug\ProyectoProducto.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\obj\x86\Debug\ProyectoProducto.frmProductos.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ProyectoProducto\ProyectoProducto\obj\x86\Debug\ProyectoProducto.csprojResolveAssemblyReference.cache

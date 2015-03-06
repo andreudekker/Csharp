@@ -1,0 +1,14 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo05_ConexoinBD_ado\bin\Debug\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo05_ConexoinBD_ado\bin\Debug\Demo05_ConexoinBD_ado.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.pdb
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.pdb
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\bin\Debug\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\bin\Debug\Demo05_ConexoinBD_ado.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo05_ConexoinBD_adoEnConsola\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo05_ConexoinBD_adoEnConsola\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo05_ConexoinBD_adoEnConsola\Demo05_ConexoinBD_ado\bin\Debug\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo05_ConexoinBD_adoEnConsola\Demo05_ConexoinBD_ado\bin\Debug\Demo05_ConexoinBD_ado.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo05_ConexoinBD_adoEnConsola\Demo05_ConexoinBD_ado\obj\x86\Debug\Demo05_ConexoinBD_ado.csprojResolveAssemblyReference.cache

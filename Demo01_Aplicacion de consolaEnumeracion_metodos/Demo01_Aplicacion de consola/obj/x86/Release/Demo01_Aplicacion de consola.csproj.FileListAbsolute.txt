@@ -1,0 +1,8 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo01_Aplicacion de consola\bin\Release\Demo01_Aplicacion de consola.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo01_Aplicacion de consola\bin\Release\Demo01_Aplicacion de consola.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo01_Aplicacion de consola\obj\x86\Release\Demo01_Aplicacion de consola.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo01_Aplicacion de consola\obj\x86\Release\Demo01_Aplicacion de consola.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo01_Aplicacion de consola\Demo01_Aplicacion de consola\obj\x86\Release\Demo01_Aplicacion de consola.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo01_Aplicacion de consola\Demo01_Aplicacion de consola\bin\Release\Demo01_Aplicacion de consola.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo01_Aplicacion de consola\Demo01_Aplicacion de consola\bin\Release\Demo01_Aplicacion de consola.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo01_Aplicacion de consola\Demo01_Aplicacion de consola\obj\x86\Release\Demo01_Aplicacion de consola.pdb

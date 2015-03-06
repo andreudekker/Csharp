@@ -1,0 +1,4 @@
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\bin\Release\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\bin\Release\Demo05_ConexoinBD_ado.pdb
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\obj\x86\Release\Demo05_ConexoinBD_ado.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_ConexoinBD_ado\Demo05_ConexoinBD_ado\obj\x86\Release\Demo05_ConexoinBD_ado.pdb

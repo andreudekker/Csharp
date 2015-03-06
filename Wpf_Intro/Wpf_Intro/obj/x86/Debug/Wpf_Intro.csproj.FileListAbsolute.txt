@@ -1,0 +1,12 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\bin\Debug\Wpf_Intro.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\bin\Debug\Wpf_Intro.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\wpfPrincipal.baml
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\wpfPrincipal.g.cs
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\App.g.cs
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\Wpf_Intro_MarkupCompile.cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\Wpf_Intro.g.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\Wpf_Intro.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\Wpf_Intro.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\Wpf_Intro.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\Wpf_Intro.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Wpf_Intro\Wpf_Intro\obj\x86\Debug\Wpf_Intro.csprojResolveAssemblyReference.cache

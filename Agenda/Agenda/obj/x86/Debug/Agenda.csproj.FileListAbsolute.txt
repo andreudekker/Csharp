@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\obj\x86\Debug\Agenda.FrmAgenda.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\obj\x86\Debug\Agenda.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Agenda\Agenda\obj\x86\Debug\Agenda.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Asp_EnlaceBD\bin\Asp_EnlaceBD.dll
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Asp_EnlaceBD\bin\Asp_EnlaceBD.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Asp_EnlaceBD\obj\Debug\Asp_EnlaceBD.dll
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Asp_EnlaceBD\obj\Debug\Asp_EnlaceBD.pdb

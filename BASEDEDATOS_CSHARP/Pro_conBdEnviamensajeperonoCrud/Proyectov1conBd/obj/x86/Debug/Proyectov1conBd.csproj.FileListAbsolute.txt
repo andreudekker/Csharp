@@ -1,0 +1,10 @@
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\obj\x86\Debug\Proyectov1conBd.frmInicio.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\obj\x86\Debug\Proyectov1conBd.frmDatos.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\obj\x86\Debug\Proyectov1conBd.Properties.Resources.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\obj\x86\Debug\Proyectov1conBd.csproj.GenerateResource.Cache
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\bin\Debug\Proyectov1conBd.exe.config
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\bin\Debug\Proyectov1conBd.exe
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\bin\Debug\Proyectov1conBd.pdb
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\obj\x86\Debug\Proyectov1conBd.exe
+c:\users\andreudekker\documents\visual studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\obj\x86\Debug\Proyectov1conBd.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyectov1conBd\Proyectov1conBd\obj\x86\Debug\Proyectov1conBd.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\bin\Debug\ExamenFinal.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\obj\x86\Debug\ExamenFinal.Form1.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\obj\x86\Debug\ExamenFinal.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\obj\x86\Debug\ExamenFinal.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\obj\x86\Debug\ExamenFinal.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\obj\x86\Debug\ExamenFinal.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ExamenFinal\ExamenFinal\obj\x86\Debug\ExamenFinal.csprojResolveAssemblyReference.cache

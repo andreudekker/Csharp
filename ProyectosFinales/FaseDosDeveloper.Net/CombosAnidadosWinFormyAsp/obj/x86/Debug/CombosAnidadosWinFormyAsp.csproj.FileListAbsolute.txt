@@ -1,0 +1,8 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\bin\Debug\CombosAnidadosWinFormyAsp.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\bin\Debug\CombosAnidadosWinFormyAsp.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\obj\x86\Debug\CombosAnidadosWinFormyAsp.Form1.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\obj\x86\Debug\CombosAnidadosWinFormyAsp.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\obj\x86\Debug\CombosAnidadosWinFormyAsp.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\obj\x86\Debug\CombosAnidadosWinFormyAsp.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\obj\x86\Debug\CombosAnidadosWinFormyAsp.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CombosAnidadosWinFormyAsp\obj\x86\Debug\CombosAnidadosWinFormyAsp.csprojResolveAssemblyReference.cache

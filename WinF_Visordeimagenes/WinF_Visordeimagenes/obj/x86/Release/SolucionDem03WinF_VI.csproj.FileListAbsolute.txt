@@ -1,0 +1,7 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\SolucionDem03WinF_VI\SolucionDem03WinF_VI\bin\Release\Solucion_Demo03_VisualizadordeImagenes_Winform.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\SolucionDem03WinF_VI\SolucionDem03WinF_VI\bin\Release\Solucion_Demo03_VisualizadordeImagenes_Winform.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\SolucionDem03WinF_VI\SolucionDem03WinF_VI\obj\x86\Release\Solucion_Demo03_VisualizadordeImagenes_Winform.Form1.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\SolucionDem03WinF_VI\SolucionDem03WinF_VI\obj\x86\Release\Solucion_Demo03_VisualizadordeImagenes_Winform.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\SolucionDem03WinF_VI\SolucionDem03WinF_VI\obj\x86\Release\SolucionDem03WinF_VI.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\SolucionDem03WinF_VI\SolucionDem03WinF_VI\obj\x86\Release\Solucion_Demo03_VisualizadordeImagenes_Winform.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\SolucionDem03WinF_VI\SolucionDem03WinF_VI\obj\x86\Release\Solucion_Demo03_VisualizadordeImagenes_Winform.pdb

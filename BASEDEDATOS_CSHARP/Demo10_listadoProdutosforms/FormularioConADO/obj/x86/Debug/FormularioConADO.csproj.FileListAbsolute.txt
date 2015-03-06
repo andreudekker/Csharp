@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\bin\Debug\FormularioConADO.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\bin\Debug\FormularioConADO.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\bin\Debug\FormularioConADO.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\obj\x86\Debug\FormularioConADO.FrmListarProductos.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\obj\x86\Debug\FormularioConADO.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\obj\x86\Debug\FormularioConADO.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\obj\x86\Debug\FormularioConADO.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\obj\x86\Debug\FormularioConADO.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Demo10_listadoProdutosforms\FormularioConADO\obj\x86\Debug\FormularioConADO.csprojResolveAssemblyReference.cache

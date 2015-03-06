@@ -1,0 +1,10 @@
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\obj\x86\Debug\ProyectoFinalConBD.frmPrincipal.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\obj\x86\Debug\ProyectoFinalConBD.Properties.Resources.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\obj\x86\Debug\ProyectoFinalConBD.csproj.GenerateResource.Cache
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\obj\x86\Debug\ProyectoFinalConBD.frmDatos.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\bin\Debug\ProyectoFinalConBD.exe.config
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\bin\Debug\ProyectoFinalConBD.exe
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\bin\Debug\ProyectoFinalConBD.pdb
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\obj\x86\Debug\ProyectoFinalConBD.exe
+c:\users\andreudekker\documents\visual studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\obj\x86\Debug\ProyectoFinalConBD.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\ProyectoFinalConBD\ProyectoFinalConBD\obj\x86\Debug\ProyectoFinalConBD.csprojResolveAssemblyReference.cache

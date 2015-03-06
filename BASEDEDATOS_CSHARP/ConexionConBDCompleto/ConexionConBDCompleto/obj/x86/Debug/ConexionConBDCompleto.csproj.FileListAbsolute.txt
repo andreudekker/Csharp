@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\obj\x86\Debug\ConexionConBDCompleto.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\obj\x86\Debug\ConexionConBDCompleto.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\bin\Debug\ConexionConBDCompleto.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\bin\Debug\ConexionConBDCompleto.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\obj\x86\Debug\ConexionConBDCompleto.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\obj\x86\Debug\ConexionConBDCompleto.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\bin\Debug\ConexionConBDCompleto.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\obj\x86\Debug\ConexionConBDCompleto.frmProducto.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\ConexionConBDCompleto\ConexionConBDCompleto\obj\x86\Debug\ConexionConBDCompleto.csprojResolveAssemblyReference.cache

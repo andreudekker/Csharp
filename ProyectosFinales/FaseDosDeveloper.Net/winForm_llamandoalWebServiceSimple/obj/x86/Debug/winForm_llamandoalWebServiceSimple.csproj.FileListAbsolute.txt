@@ -1,0 +1,8 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\obj\x86\Debug\winForm_llamandoalWebServiceSimple.ListarEmpleados.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\obj\x86\Debug\winForm_llamandoalWebServiceSimple.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\obj\x86\Debug\winForm_llamandoalWebServiceSimple.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\bin\Debug\winForm_llamandoalWebServiceSimple.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\bin\Debug\winForm_llamandoalWebServiceSimple.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\obj\x86\Debug\winForm_llamandoalWebServiceSimple.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\obj\x86\Debug\winForm_llamandoalWebServiceSimple.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\winForm_llamandoalWebServiceSimple\bin\Debug\winForm_llamandoalWebServiceSimple.exe.config

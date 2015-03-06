@@ -1,0 +1,10 @@
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\bin\Debug\EmpresaConBd.exe.config
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\bin\Debug\EmpresaConBd.exe
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\bin\Debug\EmpresaConBd.pdb
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\obj\x86\Debug\EmpresaConBd.frmDatos.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\obj\x86\Debug\EmpresaConBd.Properties.Resources.resources
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\obj\x86\Debug\EmpresaConBd.csproj.GenerateResource.Cache
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\obj\x86\Debug\EmpresaConBd.exe
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\obj\x86\Debug\EmpresaConBd.pdb
+c:\users\andreudekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\obj\x86\Debug\EmpresaConBd.frmInicio.resources
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\EmpresaConBd\EmpresaConBd\obj\x86\Debug\EmpresaConBd.csprojResolveAssemblyReference.cache

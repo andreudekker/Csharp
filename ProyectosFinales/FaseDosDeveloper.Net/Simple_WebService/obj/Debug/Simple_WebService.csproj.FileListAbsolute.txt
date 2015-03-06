@@ -1,0 +1,6 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Simple_WebService\bin\Simple_WebService.dll
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Simple_WebService\bin\Simple_WebService.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Simple_WebService\obj\Debug\Simple_WebService.dll
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Simple_WebService\obj\Debug\Simple_WebService.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Simple_WebService\obj\Debug\Simple_WebService.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\Simple_WebService\bin\Simple_WebService.dll.config

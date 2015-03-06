@@ -1,0 +1,11 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\bin\Debug\demo03_mantenimiento.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\bin\Debug\demo03_mantenimiento.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\bin\Debug\demo03_mantenimiento.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.frmEditarProductos.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.MdiPrincipal.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\demo03_mantenimiento\demo03_mantenimiento\obj\x86\Debug\demo03_mantenimiento.frmEliminarProducto.resources

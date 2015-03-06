@@ -1,0 +1,11 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\bin\Debug\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\bin\Debug\Solucion_Demo01_Consola.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\obj\x86\Debug\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\obj\x86\Debug\Solucion_Demo01_Consola.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\obj\x86\Debug\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\obj\x86\Debug\Solucion_Demo01_Consola.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\bin\Debug\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\bin\Debug\Solucion_Demo01_Consola.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\obj\x86\Debug\Solucion_Demo01_Consola.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\Solucion_Demo01_Consola\Solucion_Demo01_Consola\obj\x86\Debug\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\Solucion_Demo01_Consola\Solucion_Demo01_Consola\obj\x86\Debug\Solucion_Demo01_Consola.pdb

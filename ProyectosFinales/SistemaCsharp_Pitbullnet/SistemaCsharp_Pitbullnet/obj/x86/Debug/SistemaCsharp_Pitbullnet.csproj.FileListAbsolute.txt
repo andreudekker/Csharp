@@ -1,0 +1,20 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\bin\Debug\SistemaCsharp_Pitbullnet.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\bin\Debug\SistemaCsharp_Pitbullnet.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.frmEnum.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.frmInicio.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.frmBaseDeDatos1.resources
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.exe
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.frmBaseDeDatos1.resources
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.frmInicio.resources
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.frmEnum.resources
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.Properties.Resources.resources
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\bin\Debug\SistemaCsharp_Pitbullnet.exe
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\bin\Debug\SistemaCsharp_Pitbullnet.pdb
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\ProyectosFinales\SistemaCsharp_Pitbullnet\SistemaCsharp_Pitbullnet\obj\x86\Debug\SistemaCsharp_Pitbullnet.pdb

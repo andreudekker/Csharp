@@ -1,0 +1,12 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.Form1.resources
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.Properties.Resources.resources
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\bin\Debug\Demo05_BD_winform.exe.config
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.Form1.resources
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.Properties.Resources.resources
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\bin\Debug\Demo05_BD_winform.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\bin\Debug\Demo05_BD_winform.pdb
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Demo05_BD_winform\Demo05_BD_winform\obj\x86\Debug\Demo05_BD_winform.csprojResolveAssemblyReference.cache

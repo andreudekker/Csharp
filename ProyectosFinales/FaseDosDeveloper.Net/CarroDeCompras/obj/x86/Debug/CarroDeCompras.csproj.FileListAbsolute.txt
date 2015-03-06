@@ -1,0 +1,10 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\bin\Debug\CarroDeCompras.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\bin\Debug\CarroDeCompras.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\obj\x86\Debug\CarroDeCompras.frmOrder.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\obj\x86\Debug\CarroDeCompras.MDIPrincipal.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\obj\x86\Debug\CarroDeCompras.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\obj\x86\Debug\CarroDeCompras.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\obj\x86\Debug\CarroDeCompras.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\obj\x86\Debug\CarroDeCompras.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\bin\Debug\CarroDeCompras.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\CarroDeCompras\obj\x86\Debug\CarroDeCompras.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1._1_visualizacionDeUnaImagen.Properties.Resources.resources
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1._1_visualizacionDeUnaImagen.VisualizarImagenes.resources
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1.1_visualizacionDeUnaImagen.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo1.1_visualizacionDeUnaImagen\bin\Release\Demo1.1_visualizacionDeUnaImagen.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo1.1_visualizacionDeUnaImagen\bin\Release\Demo1.1_visualizacionDeUnaImagen.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1.1_visualizacionDeUnaImagen.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1.1_visualizacionDeUnaImagen.pdb
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo1.1_visualizacionDeUnaImagen\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1.1_visualizacionDeUnaImagen.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo1.1_visualizacionDeUnaImagen\Demo1.1_visualizacionDeUnaImagen\bin\Release\Demo1.1_visualizacionDeUnaImagen.exe
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo1.1_visualizacionDeUnaImagen\Demo1.1_visualizacionDeUnaImagen\bin\Release\Demo1.1_visualizacionDeUnaImagen.pdb
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo1.1_visualizacionDeUnaImagen\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1._1_visualizacionDeUnaImagen.Properties.Resources.resources
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo1.1_visualizacionDeUnaImagen\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1._1_visualizacionDeUnaImagen.VisualizarImagenes.resources
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo1.1_visualizacionDeUnaImagen\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1.1_visualizacionDeUnaImagen.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\documents\visual studio 2010\Projects\Demo1.1_visualizacionDeUnaImagen\Demo1.1_visualizacionDeUnaImagen\obj\x86\Release\Demo1.1_visualizacionDeUnaImagen.pdb

@@ -1,0 +1,8 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\obj\x86\Debug\Pacman.frmPacman.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\obj\x86\Debug\Pacman.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\obj\x86\Debug\Pacman.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pacman\Pacman\obj\x86\Debug\Pacman.csprojResolveAssemblyReference.cache

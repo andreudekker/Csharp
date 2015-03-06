@@ -1,0 +1,8 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\bin\Release\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\bin\Release\Solucion_Demo01_Consola.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\obj\x86\Release\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Solucion_Demo01_Consola\obj\x86\Release\Solucion_Demo01_Consola.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\bin\Release\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\bin\Release\Solucion_Demo01_Consola.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\obj\x86\Release\Solucion_Demo01_Consola.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Solucion_Demo01_Consola\Solucion_Demo01_Consola\obj\x86\Release\Solucion_Demo01_Consola.pdb

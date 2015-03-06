@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\obj\x86\Debug\CarritoCompras.frmOrders.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\obj\x86\Debug\CarritoCompras.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\obj\x86\Debug\CarritoCompras.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\obj\x86\Debug\CarritoCompras.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\obj\x86\Debug\CarritoCompras.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\CarritoCompras\CarritoCompras\obj\x86\Debug\CarritoCompras.csprojResolveAssemblyReference.cache

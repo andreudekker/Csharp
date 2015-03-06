@@ -1,0 +1,10 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\bin\Debug\DemoRegistroenWindows.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\bin\Debug\DemoRegistroenWindows.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.FrmLeerValoresReg.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.exe
+C:\Users\AndreuDekker\Desktop\GIthub_Csharp\DemoRegistroenWindows\DemoRegistroenWindows\obj\x86\Debug\DemoRegistroenWindows.pdb

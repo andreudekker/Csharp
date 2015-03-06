@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\obj\x86\Debug\ConexionBD_con_Interface.Form1.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\obj\x86\Debug\ConexionBD_con_Interface.Properties.Resources.resources
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\obj\x86\Debug\ConexionBD con Interface.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\bin\Debug\ConexionBD con Interface.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\bin\Debug\ConexionBD con Interface.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\obj\x86\Debug\ConexionBD con Interface.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\obj\x86\Debug\ConexionBD con Interface.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\bin\Debug\ConexionBD con Interface.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\FaseDosDeveloper.Net\ConexionBD con Interface\obj\x86\Debug\ConexionBD con Interface.csprojResolveAssemblyReference.cache
